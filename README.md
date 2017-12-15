@@ -8,6 +8,8 @@ Examples (via jupyter/ipython notebook) of usful snippets of code
 
 ## Numpy
 
+- [Numpy binning](https://github.com/njcuk9999/neil_python_examples/blob/master/numpy/numpy_bin_data.ipynb)
+
 ## SciPy
 
 ## Tools
