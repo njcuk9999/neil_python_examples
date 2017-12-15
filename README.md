@@ -12,6 +12,8 @@ Examples (via jupyter/ipython notebook) of usful snippets of code
 
 ## SciPy
 
+No public examples yet.
+
 ## Tools
 
 - [A loading bar in python](https://github.com/njcuk9999/neil_python_examples/blob/master/tools/tqdm_forloop_bar.ipynb)
