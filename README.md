@@ -4,7 +4,7 @@ Examples (via jupyter/ipython notebook) of usful snippets of code
 
 ## Astropy
 
-- 
+No public examples yet.
 
 ## Maplotlib
 
