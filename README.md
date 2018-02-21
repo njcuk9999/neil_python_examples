@@ -18,6 +18,10 @@ No public examples yet.
 
 No public examples yet.
 
+## Itertools
+
+- [Combinations of parameters](https://github.com/njcuk9999/neil_python_examples/blob/master/itertools/combinations_of_parameters.ipynb)
+
 ## Tools
 
 - [Astroquery examples](https://github.com/njcuk9999/neil_python_examples/blob/master/tools/astroquery.ipynb)
