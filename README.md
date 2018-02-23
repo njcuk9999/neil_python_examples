@@ -10,6 +10,8 @@ No public examples yet.
 
 - [Colouring from matplotlib colourmaps](https://github.com/njcuk9999/neil_python_examples/blob/master/matplotlib/colour_from_colourmap.ipynb)
 
+- [Matplotlib labels in a loop](https://github.com/njcuk9999/neil_python_examples/blob/master/matplotlib/loopy_labels.ipynb)
+
 ## Numpy
 
 - [Numpy binning](https://github.com/njcuk9999/neil_python_examples/blob/master/numpy/numpy_bin_data.ipynb)
