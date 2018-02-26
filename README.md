@@ -18,7 +18,8 @@ No public examples yet.
 
 ## SciPy
 
-No public examples yet.
+- [One dimensional interpolation and fitting](https://github.com/njcuk9999/neil_python_examples/blob/master/scipy/one_d_interp_fitting.ipynb)
+
 
 ## Itertools
 
