@@ -1,5 +1,5 @@
 # neil_python_examples
-Examples (via jupyter/ipython notebook) of usful snippets of code
+Examples (via jupyter/ipython notebook) of useful snippets of code
 
 
 ## Astropy
